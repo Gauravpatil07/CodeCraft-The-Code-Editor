@@ -1,8 +1,6 @@
 <h1 align="center">✨ SaaS Code Editor – Full Stack VSCode-like IDE 💻</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
-
-[Watch Full Tutorial on Youtube](https://youtu.be/fGkRQgf6Scw)
+![Demo App](https://github.com/Gauravpatil07/CodeCraft-The-Code-Editor/blob/6bc9ad17156ed07f6408654f83f1807dfe6c7ba5/Screenshot.png)
 
 Highlights:
 
